@@ -1,5 +1,7 @@
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/JimmyLaurent/readline v0.0.0-20210227220204-52cb06d27532 h1:B5j8sAuSr6nW8xS8Ko6gAYEthGE5pPXvXBXdkDPDCUg=
+github.com/JimmyLaurent/readline v0.0.0-20210227220204-52cb06d27532/go.mod h1:TmQCoh+/v4XCFUdwv4Jn6UHeColZ+3AvQwPsIfQyBb0=
 github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d h1:licZJFw2RwpHMqeKTCYkitsPqHNxTmd4SNR5r94FGM8=
 github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d/go.mod h1:asat636LX7Bqt5lYEZ27JNDcqxfjdBQuJ/MM4CN/Lzo=
 github.com/adrianmo/go-nmea v1.1.0 h1:0NILSj14nj6LvVQHo/afHbyPgGz5qvp5PM6jmMyAQzY=
@@ -25,8 +27,8 @@ github.com/bettercap/gatt v0.0.0-20191018133023-569d3d9372bb h1:GOaknHS3DCZcBbQR
 github.com/bettercap/gatt v0.0.0-20191018133023-569d3d9372bb/go.mod h1:xbRFD+l8RcbQ3DscCiYX0dgEnXbwozZgm6oP2GXic+0=
 github.com/bettercap/nrf24 v0.0.0-20190219153547-aa37e6d0e0eb h1:JWAAJk4ny+bT3VrtcX+e7mcmWtWUeUM0xVcocSAUuWc=
 github.com/bettercap/nrf24 v0.0.0-20190219153547-aa37e6d0e0eb/go.mod h1:g6WiaSRgMTiChuk7jYyFSEtpgaw1F0wAsBfspG3bu0M=
-github.com/bettercap/readline v0.0.0-20180208083827-9cec905dd291 h1:6GtREdpf6N/trykGvhwfr0nyo3V/yncz0JvNbu+z7S8=
-github.com/bettercap/readline v0.0.0-20180208083827-9cec905dd291/go.mod h1:03rWiUf60r1miMVzMEtgtkq7RdZniecZFw3/Zgvyxcs=
+github.com/JimmyLaurent/readline v0.0.0-20180208083827-9cec905dd291 h1:6GtREdpf6N/trykGvhwfr0nyo3V/yncz0JvNbu+z7S8=
+github.com/JimmyLaurent/readline v0.0.0-20180208083827-9cec905dd291/go.mod h1:03rWiUf60r1miMVzMEtgtkq7RdZniecZFw3/Zgvyxcs=
 github.com/bettercap/recording v0.0.0-20190408083647-3ce1dcf032e3 h1:pC4ZAk7UtDIbrRKzMMiIL1TVkiKlgtgcJodqKB53Rl4=
 github.com/bettercap/recording v0.0.0-20190408083647-3ce1dcf032e3/go.mod h1:kqVwnx6DKuOHMZcBnzsgp2Lq2JZHDtFtm92b5hxdRaM=
 github.com/chifflier/nfqueue-go v0.0.0-20170228160439-61ca646babef h1:uhLIhHeIRlFbAI1mOHkz3vN23T+QdhA9MgnvnJaQyL0=

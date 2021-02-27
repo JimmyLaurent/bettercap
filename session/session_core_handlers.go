@@ -15,7 +15,7 @@ import (
 	"github.com/bettercap/bettercap/core"
 	"github.com/bettercap/bettercap/network"
 
-	"github.com/bettercap/readline"
+	"github.com/JimmyLaurent/readline"
 	"github.com/evilsocket/islazy/str"
 	"github.com/evilsocket/islazy/tui"
 )

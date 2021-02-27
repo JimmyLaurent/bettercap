@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bettercap/readline"
+	"github.com/JimmyLaurent/readline"
 
 	"github.com/bettercap/bettercap/caplets"
 	"github.com/bettercap/bettercap/core"
